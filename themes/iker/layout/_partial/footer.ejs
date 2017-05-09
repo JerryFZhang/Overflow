@@ -5,8 +5,7 @@
 
   <div class="container">
       	<div class="row">
-	      <p> <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/iTimeTraveler/hexo-theme-hiker" target="_blank">Hexo-theme-hiker</a> </p>
-	      <p id="copyRightEn">Copyright &copy; <%= theme.since ||  (date(new Date(), 'YYYY')-1)%> - <%= date(new Date(), 'YYYY') %> <%= config.title || config.author %> All Rights Reserved.</p>
+	      <p id="copyRightEn">&copy; <%= theme.since ||  (date(new Date(), 'YYYY')-1)%> - <%= date(new Date(), 'YYYY') %> <%= config.title || config.author %>.</p>
 	      
 	      <% if (theme.show_busuanzi_view_counts){ %>
     		<p class="busuanzi_uv">
