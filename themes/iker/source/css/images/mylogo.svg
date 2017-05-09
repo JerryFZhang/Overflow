@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1295px" height="1106px" viewBox="0 0 1295 1106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1281" height="1092"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 7.000000)">
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#4A4A4A" stroke-width="7" x="-3.5" y="-3.5" width="1288" height="1099"></rect>
+            </g>
+            <text id="Fengwei-Zhang’s-Blog" font-family="AmericanTypewriter-Light, American Typewriter" font-size="288" font-weight="300" letter-spacing="1.89999998" fill="#4A4A4A">
+                <tspan x="55" y="310">Fengwei</tspan>
+                <tspan x="55" y="638">Zhang’s</tspan>
+                <tspan x="55" y="966">Blo</tspan>
+                <tspan x="501.052" y="966">g</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

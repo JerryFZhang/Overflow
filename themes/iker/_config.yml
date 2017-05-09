@@ -11,19 +11,19 @@ menu:
   About: about
 rss: /atom.xml
 
-since: 2013
+since: 2015
 
 # Set default keywords (Use a comma to separate)
-keywords: ""
+keywords: "fengwei,zhang,blog,programming,ottawa"
 
 # Put your favicon.ico or avatar.jpg into `hexo-site/themes/hiker/source/` directory.
 avatar: 
   enable: true
-  border: true
+  border: false
   width: 124
   height: 124
   top: 0
-  url: css/images/mylogo.jpg
+  url: css/images/mylogo.svg
 
 
 # Homepage
@@ -34,7 +34,7 @@ home_background_image:
 
 home_logo_image:
   enable: false
-  border: false
+  border: true
   url: css/images/homelogo.jpg
 
 
@@ -68,8 +68,8 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
-disqus_shortname:
+#duoshuo_shortname: iTimeTraveler
+#disqus_shortname:
 
 
 # Code Highlight theme
@@ -82,7 +82,7 @@ highlight_theme: default
 # Article theme color
 # Available value:
 #    random | orange | blue | red | green | black
-theme_color: random
+theme_color: black
 
 
 # display widgets at the bottom of index pages (pagination == 2)
@@ -98,32 +98,33 @@ show_count: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification:
-baidu_site_verification:
-qihu_site_verification:
+#google_site_verification:
+#baidu_site_verification:
+#qihu_site_verification:
 
 # Miscellaneous
-google_analytics:
-gauges_analytics:
-baidu_analytics:
-tencent_analytics:
-twitter:
-google_plus:
-fb_admins:
-fb_app_id:
+#google_analytics:
+#gauges_analytics:
+#baidu_analytics:
+#tencent_analytics:
+#twitter:
+#google_plus:
+#fb_admins:
+#fb_app_id:
 
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
-facebook_sdk:
-  enable: false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
-  like_button:  #true
-  webmaster:    #true
+#facebook_sdk:
+#  enable: false
+#  app_id:       #<app_id>
+#  fb_admin:     #<user_id>
+#  like_button:  #true
+#  webmaster:    #true
 
 # CNZZ count
-cnzz_siteid: 1260716016
+#cnzz_siteid: 1260716016
 
 # busuanzi count
 # http://busuanzi.ibruce.info/
-show_busuanzi_view_counts: true
+#show_busuanzi_view_counts: true
+
