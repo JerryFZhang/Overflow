@@ -30,10 +30,11 @@ avatar:
 # eg. home_background_image: [css/images/home-bg.jpg, http://t.cn/RMbvEza]
 home_background_image:
   enable: true
-  url: [css/images/home-bg.jpg, css/images/sample.jpg, http://t.cn/RMbvEza]
+  url: css/images/home-bg.jpg, css/images/sample.jpg, http://t.cn/RMbvEza]
 
 home_logo_image:
   enable: false
+  
   border: true
   url: css/images/homelogo.jpg
 
@@ -64,7 +65,6 @@ widgets:
 search:
     insight: true # you need to install `hexo-generator-json-content` before using Insight Search
     swiftype: # enter swiftype install key here
-    baidu: false # you need to disable other search engines to use Baidu search, options: true, false
 
 
 # comment ShortName, you can choose only ONE to display.
