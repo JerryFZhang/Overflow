@@ -1,5 +1,6 @@
 routes:
-
+  /archive/: 
+    template: archive
 collections:
   /:
     permalink: /{slug}/
