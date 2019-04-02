@@ -1,6 +1,8 @@
 routes:
   /archive/: 
     template: archive
+  /tags/: 
+    template: tags
 collections:
   /:
     permalink: /{slug}/
